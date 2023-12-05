@@ -1,0 +1,12 @@
+DateTime: 2023-12-05T14:13:42.304339500
+Scheduling Type: Interactive (Nonpreemptive)
+Scheduling Name: Shortest process next, agingCoef = 0.2
+Simulation Run Time: 674
+Mean: 150
+Standard Deviation: 50
+Process #	CPU Time	IO Blocking	CPU Completed	CPU Blocked
+1		209 (ms)	20 (ms)		209 (ms)	10 times
+2		101 (ms)	50 (ms)		101 (ms)	2 times
+3		101 (ms)	10 (ms)		101 (ms)	10 times
+4		127 (ms)	400 (ms)	127 (ms)	0 times
+5		127 (ms)	500 (ms)	127 (ms)	0 times
